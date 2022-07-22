@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-22 13:29:21</sys_created_on>
+        <sys_id>306e4fda2fb05110358a857cf699b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_844979_lean_gr_0_lean_group_survey.x_844979_lean_gr_0.user</sys_name>
+        <sys_package display_value="Lean Group Assessments" source="x_844979_lean_gr_0">e3dd47da2fb05110358a857cf699b628</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lean Group Assessments">e3dd47da2fb05110358a857cf699b628</sys_scope>
+        <sys_security_acl display_value="x_844979_lean_gr_0_lean_group_survey">ec6e4fda2fb05110358a857cf699b6ac</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_306e4fda2fb05110358a857cf699b6af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-22 13:29:21</sys_updated_on>
+        <sys_user_role display_value="x_844979_lean_gr_0.user" name="x_844979_lean_gr_0.user">67dd47da2fb05110358a857cf699b64c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_844979_lean_gr_0.admin" name="x_844979_lean_gr_0.admin">a3dd47da2fb05110358a857cf699b648</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-22 13:27:06</sys_created_on>
+        <sys_id>efdd47da2fb05110358a857cf699b649</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a3dd47da2fb05110358a857cf699b648</sys_name>
+        <sys_package display_value="Lean Group Assessments" source="x_844979_lean_gr_0">e3dd47da2fb05110358a857cf699b628</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lean Group Assessments">e3dd47da2fb05110358a857cf699b628</sys_scope>
+        <sys_update_name>sys_embedded_help_role_efdd47da2fb05110358a857cf699b649</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-22 13:27:06</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
